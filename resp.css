@@ -1,17 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash:wght@400;700&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Poetsen+One&family=Signika:wght@300..700&display=swap');
-
-.cherry-swash-regular {
-    font-family: "Cherry Swash", serif;
-    font-weight: 400;
-    font-style: normal;
-  }
-  
-  .cherry-swash-bold {
-    font-family: "Cherry Swash", serif;
-    font-weight: 700;
-    font-style: normal;
-  }
 
   .signika {
     font-family: "Signika", sans-serif;
@@ -22,8 +9,6 @@
       "GRAD" 0;
   }
   
-  
-
 body{
    background-color: #fafafaa9;
    margin: 0;
